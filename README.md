@@ -42,7 +42,7 @@ Self-paced.
 * [Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0) :white_medium_square:  
 MIT on edx.  
 Self-paced.  
-* [Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0) :white_medium_square:  
+* [Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-and-electronics-3-applications-2) :white_medium_square:  
 MIT on edx.  
 Self-paced.  
 * [Mastering Quantum Mechanics Part 1: Wave Mechanics](https://www.edx.org/course/mastering-quantum-mechanics-part-1-wave-mitx-8-05-1x) :white_medium_square:  
