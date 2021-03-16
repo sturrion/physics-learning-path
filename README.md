@@ -36,7 +36,7 @@ Self-paced.
 * [Electricity & Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) :white_medium_square:  
 Rice University on edx.  
 Self-paced.  
-* [Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0) :white_medium_square:  
+* [Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2) :white_medium_square:  
 MIT on edx.  
 Self-paced.  
 * [Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0) :white_medium_square:  
